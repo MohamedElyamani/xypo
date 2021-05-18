@@ -5,6 +5,9 @@
     font-family: sans-serif;
 }
 /* global style  */
+html{
+    scroll-behavior: smooth;
+}
 :root{
     --mainColor: #F67C92;
     --shapeColor: #FAB3C4;
